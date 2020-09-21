@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## [Unreleased]
 
 ## [3.38.2] - 2020-09-21
+ - Update vendor in the manifest
+ - Update the name of the theme
 
 ## [3.38.1] - 2020-09-21
 ## [3.38.1] - 2020-09-21

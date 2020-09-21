@@ -1,6 +1,6 @@
 {
   "vendor": "hiringcoders4",
-  "name": "store-theme",
+  "name": "dream-theme",
   "version": "3.38.2",
   "builders": {
     "styles": "2.x",
