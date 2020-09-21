@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+## [3.38.1] - 2020-09-21
+- Update **background** `base--inverted` color from `#03044e` to `#ad9d9d`
+- Update **background** `action-primary` color from `#0F3E99` to `#d9adad`  
+- Update **hover-background** `action-primary` color from `#072c75` to `#fccbcb`  
+- Add the chat on the home block
 
 ## [3.38.0] - 2020-09-10
 ### Added
